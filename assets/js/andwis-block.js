@@ -98,9 +98,10 @@
 			} );
 		} );
 
-		// Reset to a clean (nothing selected) state when crossing the breakpoint.
+		// Re-open the first item when crossing the breakpoint, so the desktop
+		// tab view always has a selection and the mobile accordion matches.
 		function onBreakpointChange() {
-			closeAll();
+			open( triggers[ 0 ] );
 		}
 
 		if ( typeof mql.addEventListener === 'function' ) {
