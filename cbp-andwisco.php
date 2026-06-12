@@ -70,7 +70,7 @@ function cbp_andwisco_services() {
 			'title'    => 'Environmental<br>Services',
 			'subtitle' => 'Simple, fast, and fully assured water, air, and asbestos compliance',
 			'content'  => 'Combining water, air and asbestos solutions to provide total environmental compliance for high risk and multi-site estates nationwide.',
-			'icon'     => 'service-asbestos-management-remediation.svg',
+			'icon'     => 'service-environmental-services.svg',
 			'alt'      => 'Environmental Services Icon',
 			'url'      => 'https://www.andwis.com/expertise-area/environmental-services/',
 		),
