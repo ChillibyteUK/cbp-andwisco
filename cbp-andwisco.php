@@ -30,7 +30,7 @@ function cbp_andwisco_intro() {
 		'heading'    => 'We are an <strong class="andwis-brand">andwis<span class="andwis-brand__dot">.</span></strong> group company.',
 		'subheading' => 'Experts in Technical &amp; Compliance Services',
 		'paragraphs' => array(
-			'As an andwis group company, we are proud to be part of a national network of technical and compliance services across six core areas of expertise.',
+			'As an andwis group company, we are proud to be part of a national network of technical and compliance services across five core areas of expertise.',
 			'Like us, our colleagues treat customer delivery and long-term partnerships in the highest regard, ensuring we deliver industry-leading technical and compliance solutions from a single provider.',
 		),
 		'cta_label'  => 'Find out More',
