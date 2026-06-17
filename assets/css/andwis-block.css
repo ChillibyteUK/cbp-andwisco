@@ -13,6 +13,20 @@
 	display: block;
 }
 
+.andwis-item__panel .logo {
+    width: 140px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.logo svg path.andwis {
+    fill: #1c4220;
+}
+
+.logo svg path.dot {
+    fill: #00b066;
+}
 
 .andwis-block h2 {
 	font-size: clamp(1.42rem, calc(1.07rem + 1.77vw), 2.44rem);
